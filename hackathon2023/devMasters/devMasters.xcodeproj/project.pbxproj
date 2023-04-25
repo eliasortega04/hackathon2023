@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FE44195829F86DD500C113DB /* botones.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE44195729F86DD500C113DB /* botones.swift */; };
+		FE7E808B29F859EA009DAAB0 /* TortugaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE7E808A29F859EA009DAAB0 /* TortugaViewController.swift */; };
 		FEABFB2C29F72BAE00084006 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEABFB2B29F72BAE00084006 /* AppDelegate.swift */; };
 		FEABFB2E29F72BAE00084006 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEABFB2D29F72BAE00084006 /* SceneDelegate.swift */; };
 		FEABFB3029F72BAE00084006 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEABFB2F29F72BAE00084006 /* ViewController.swift */; };
@@ -38,6 +40,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FE44195729F86DD500C113DB /* botones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = botones.swift; sourceTree = "<group>"; };
+		FE7E808A29F859EA009DAAB0 /* TortugaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TortugaViewController.swift; sourceTree = "<group>"; };
 		FEABFB2829F72BAE00084006 /* devMasters.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = devMasters.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEABFB2B29F72BAE00084006 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FEABFB2D29F72BAE00084006 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -105,10 +109,12 @@
 			children = (
 				FEABFB2B29F72BAE00084006 /* AppDelegate.swift */,
 				FEABFB5D29F7427300084006 /* tierraViewController.swift */,
+				FE7E808A29F859EA009DAAB0 /* TortugaViewController.swift */,
 				FEABFB5B29F7426100084006 /* aguaViewController.swift */,
 				FEABFB2D29F72BAE00084006 /* SceneDelegate.swift */,
 				FEABFB2F29F72BAE00084006 /* ViewController.swift */,
 				FEABFB3129F72BAE00084006 /* Main.storyboard */,
+				FE44195729F86DD500C113DB /* botones.swift */,
 				FEABFB3429F72BAF00084006 /* Assets.xcassets */,
 				FEABFB3629F72BAF00084006 /* LaunchScreen.storyboard */,
 				FEABFB3929F72BAF00084006 /* Info.plist */,
@@ -267,7 +273,9 @@
 				FEABFB5C29F7426100084006 /* aguaViewController.swift in Sources */,
 				FEABFB3029F72BAE00084006 /* ViewController.swift in Sources */,
 				FEABFB2C29F72BAE00084006 /* AppDelegate.swift in Sources */,
+				FE7E808B29F859EA009DAAB0 /* TortugaViewController.swift in Sources */,
 				FEABFB2E29F72BAE00084006 /* SceneDelegate.swift in Sources */,
+				FE44195829F86DD500C113DB /* botones.swift in Sources */,
 				FEABFB5E29F7427300084006 /* tierraViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
